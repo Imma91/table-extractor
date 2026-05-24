@@ -7,6 +7,8 @@
 ![Gemini](https://img.shields.io/badge/Gemini_2.5_Flash-Vision-4285F4?style=flat&logo=google&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-22C55E?style=flat)
 
+![App screenshot](docs/screenshot.png)
+
 ---
 
 ## What it does
